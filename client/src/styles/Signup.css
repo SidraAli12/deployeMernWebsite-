@@ -1,0 +1,12 @@
+.main-form{
+    width: 40%;
+    margin: auto;
+    background-color: #F3F9F9;
+    padding: 20px;
+    border-radius: 20px;
+}
+.main-container-form{
+    width: 100%;
+    height: auto;
+    padding: 46px 0px;
+}

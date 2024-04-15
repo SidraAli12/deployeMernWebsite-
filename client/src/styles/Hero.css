@@ -1,0 +1,80 @@
+.main-hero-section {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 30px;
+}
+.left-section {
+    width: 45%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.left-section h1 {
+    line-height: 60px;
+    margin-bottom: -7px;
+    margin-top: -6px;
+    font-family: Inter;
+}
+.right-section {
+    width: 45%;
+    height: auto;
+}
+.right-section img {
+    width: 100%;
+    height: 100%;
+}
+.brands {
+    width: 85%;
+    height: auto;
+    padding: 3px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.buttonss {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+.buttonss .btn {
+    min-width: 180px;
+    padding: 17px 15px;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    font-size: 16px;
+    background: rgb(0, 35, 36);
+    background: linear-gradient(
+        90deg,
+        rgba(0, 35, 36, 0.5) 0%,
+        rgba(10, 118, 4, 1) 0%,
+        rgba(13, 133, 4, 1) 0%,
+        rgba(160, 253, 95, 1) 0%,
+        rgba(28, 202, 2, 1) 100%,
+        rgba(14, 136, 4, 1) 100%,
+        rgba(39, 255, 0, 1) 100%
+    );
+}
+.buttonss .btn2 {
+    min-width: 180px;
+    padding: 17px 18px;
+    background: transparent;
+    border-radius: 50px;
+    color: #43a724;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    border: 2px solid #43a724;
+}
+.movingText {
+    width: 100%;
+    height: 150px;
+    margin-bottom: -20px;
+}

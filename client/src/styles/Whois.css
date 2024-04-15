@@ -1,0 +1,24 @@
+.section2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.content{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 120px;
+}
+.content p{
+    text-align: center;
+    line-height: 160%;
+    font-size: 20px;
+    color: #4A5056;
+}
+.slider{
+    display: flex;
+}
